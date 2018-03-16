@@ -1,0 +1,8 @@
+{
+    "variants": 
+    {
+        "variant=mutated_enderium": { "model": "tuem:block_mutated_endstone" },
+        "variant=corrupted_enderium": { "model": "tuem:block_corrupted_endstone" },
+        "variant=ultimate_enderium": { "model": "tuem:block_ultimate_endstone" }
+    }
+}

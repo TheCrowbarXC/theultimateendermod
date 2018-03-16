@@ -1,0 +1,6 @@
+{
+    "variants": 
+    {
+        "normal": { "model": "tuem:models/block_enderium" }
+    }
+}
