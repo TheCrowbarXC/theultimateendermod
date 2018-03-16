@@ -1,0 +1,16 @@
+item.ingot_enderium.name=Enderium Ingot
+item.ingot_mutated_enderium.name=Mutated Enderium Ingot
+item.ingot_corrupted_enderium.name=Corrupted Enderium Ingot
+item.ingot_ultimate_enderium.name=Ultimate Enderium Ingot
+
+tile.block_enderium.name=Enderium Block
+tile.block_mutated_enderium.name=Mutated Enderium Block
+tile.block_corrupted_enderium.name=Corrupted Enderium Block
+tile.block_ultimate_enderium.name=Ultimate Enderium Block
+tile.ore_enderium.name=Enderium Ore
+tile.ore_mutated_enderium.name=Mutated Enderium Ore
+tile.ore_corrupted_enderium.name=Corrupted Enderium Ore
+tile.ore_ultimate_enderium.name=Ultimate Enderium Ore
+tile.block_mutated_endstone.name=Mutated Endstone
+tile.block_corrupted_endstone.name=Corrupted Endstone
+tile.block_ultimate_endstone.name=Ultimate Endstone
