@@ -1,0 +1,10 @@
+{
+    "variants":
+    {
+        "variant=mutated_enderium": { "model": "tuem:ore_mutated_enderium" },
+        "variant=enderium": { "model": "tuem:ore_enderium" },
+        "variant=corrupted_enderium": { "model": "tuem:ore_corrupted_enderium" },
+        "variant=ultimate_enderium": { "model": "tuem:ore_ultimate_enderium" }
+        
+    }
+}
