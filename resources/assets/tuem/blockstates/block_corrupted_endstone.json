@@ -1,7 +1,7 @@
 {
   "forge_marker": 1,
   "defaults": {
-  "model": "tuem:block_enderium"
+  "model": "tuem:block_corrupted_endstone"
   },
   "variants":{
     "normal": [{}],
