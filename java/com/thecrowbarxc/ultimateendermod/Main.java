@@ -1,6 +1,7 @@
 package com.thecrowbarxc.ultimateendermod;
 
 import com.thecrowbarxc.ultimateendermod.proxy.CommonProxy;
+import com.thecrowbarxc.ultimateendermod.tabs.UltimateEnderTab;
 import com.thecrowbarxc.ultimateendermod.util.Reference;
 
 import net.minecraft.creativetab.CreativeTabs;
@@ -13,7 +14,9 @@ import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
 @Mod(modid = Reference.MOD_ID, name = Reference.NAME, version = Reference.VERSION)
-public class Main {
+public class Main 
+{
+	public static final CreativeTabs ultimateendertab = new UltimateEnderTab("ultimateendertab");
 	
 	@Instance
 	public static Main instance;

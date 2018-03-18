@@ -16,7 +16,7 @@ public class ToolShovel extends ItemSpade implements IHasModel
 		super(material);
 		setUnlocalizedName(name);
 		setRegistryName(name);
-		setCreativeTab(CreativeTabs.TOOLS);
+		setCreativeTab(Main.ultimateendertab);
 		
 		ItemInit.ITEMS.add(this);
 	}
