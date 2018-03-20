@@ -1,0 +1,64 @@
+{
+    "entity.ender_guard.stare":
+    {
+        "category": "entity",
+        "subtitle": "entity.ender_guard.stare",
+        "sounds": [{ "name": "tuem:entity/ender_guard/stare", "stream": true}]
+    },
+    
+    "entity.ender_guard.hurt1":
+    {
+        "category": "entity",
+        "subtitle": "entity.ender_guard.hurt1",
+        "sounds": [{ "name": "tuem:entity/ender_guard/hurt1", "stream": true}]
+    },
+    
+    "entity.ender_guard.hurt2":
+    {
+        "category": "entity",
+        "subtitle": "entity.ender_guard.hurt2",
+        "sounds": [{ "name": "tuem:entity/ender_guard/hurt2", "stream": true}]
+    },
+    
+      "entity.ender_guard.hurt3":
+    {
+        "category": "entity",
+        "subtitle": "entity.ender_guard.hurt3",
+        "sounds": [{ "name": "tuem:entity/ender_guard/hurt3", "stream": true}]
+    },
+    
+    "entity.ender_guard.death":
+    {
+        "category": "entity",
+        "subtitle": "entity.ender_guard.death",
+        "sounds": [{ "name": "tuem:entity/ender_guard/death", "stream": true}]
+    },
+    
+    "entity.ender_guard.ambient1":
+    {
+        "category": "entity",
+        "subtitle": "entity.ender_guard.ambient1",
+        "sounds": [{ "name": "tuem:entity/ender_guard/ambient1", "stream": true}]
+    },
+    
+    "entity.ender_guard.ambient2":
+    {
+        "category": "entity",
+        "subtitle": "entity.ender_guard.ambient2",
+        "sounds": [{ "name": "tuem:entity/ender_guard/ambient2", "stream": true}]
+    },
+    
+    "entity.ender_guard.ambient3":
+    {
+        "category": "entity",
+        "subtitle": "entity.ender_guard.ambient3",
+        "sounds": [{ "name": "tuem:entity/ender_guard/ambient3", "stream": true}]
+    },
+    
+    "entity.ender_guard.ambient4":
+    {
+        "category": "entity",
+        "subtitle": "entity.ender_guard.ambient4",
+        "sounds": [{ "name": "tuem:entity/ender_guard/ambient4", "stream": true}]
+    }
+}
