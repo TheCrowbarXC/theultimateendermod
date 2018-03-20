@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "II",
+        " S",
+        " S"      
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "tuem:ingot_ultimate_enderium"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "tuem:hoe_ultimate_enderium"
+    }
+}

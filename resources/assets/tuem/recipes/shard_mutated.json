@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "PPP",
+        "PPP",
+        "PPP"      
+    ],
+    
+    "key":
+    {
+        "P":
+        {
+            "item": "tuem:piece_mutated"
+        }
+    },
+    
+    "result":
+    {
+        "item": "shard_mutated"
+    }
+}

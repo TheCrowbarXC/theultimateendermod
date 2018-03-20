@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "I I",
+        "I I"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "tuem:ingot_ultimate_enderium"
+        }
+    },
+    
+    "result":
+    {
+        "item": "tuem:boots_ultimate_enderium"
+    }
+}

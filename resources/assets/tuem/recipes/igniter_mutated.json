@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "C ",
+        " F"      
+    ],
+    
+    "key":
+    {
+        "C":
+        {
+            "item": "tuem:chunk_mutated"
+        },
+        
+        "F":
+        {
+            "item": "tuem:flint_enderium"
+        }
+    },
+    
+    "result":
+    {
+        "item": "igniter_mutated"
+    }
+}

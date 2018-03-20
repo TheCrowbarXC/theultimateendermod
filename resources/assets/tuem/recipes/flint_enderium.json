@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "I ",
+        " F"      
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "tuem:ingot_enderium"
+        },
+        
+        "F":
+        {
+            "item": "minecraft:flint"
+        }
+    },
+    
+    "result":
+    {
+        "item": "flint_enderium"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "B"      
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "tuem:block_mutated_enderium"
+        }
+    },
+    
+    "result":
+    {
+        "item": "tuem:ingot_mutated_enderium",
+        "count": 9
+    }
+}

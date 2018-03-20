@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "B"      
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "tuem:block_corrupted_enderium"
+        }
+    },
+    
+    "result":
+    {
+        "item": "tuem:ingot_corrupted_enderium",
+        "count": 9
+    }
+}

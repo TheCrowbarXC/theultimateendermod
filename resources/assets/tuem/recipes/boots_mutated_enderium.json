@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "I I",
+        "I I"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "tuem:ingot_mutated_enderium"
+        }
+    },
+    
+    "result":
+    {
+        "item": "tuem:boots_mutated_enderium"
+    }
+}

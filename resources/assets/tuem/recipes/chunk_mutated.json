@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "SSS",
+        "SSS",
+        "SSS"      
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "tuem:shard_mutated"
+        }
+    },
+    
+    "result":
+    {
+        "item": "chunk_mutated"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "III",
+        "I I",
+        "I I"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "tuem:ingot_ultimate_enderium"
+        }
+    },
+    
+    "result":
+    {
+        "item": "tuem:leggings_ultimate_enderium"
+    }
+}

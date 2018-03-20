@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "I",
+        "S",
+        "S"      
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "tuem:ingot_corrupted_enderium"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "tuem:shovel_corrupted_enderium"
+    }
+}
