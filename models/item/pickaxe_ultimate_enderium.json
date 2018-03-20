@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "tuem:items/pickaxe_ultimate_enderium"
+    }
+}

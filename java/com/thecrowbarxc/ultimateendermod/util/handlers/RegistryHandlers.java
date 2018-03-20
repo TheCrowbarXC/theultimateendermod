@@ -1,8 +1,10 @@
 package com.thecrowbarxc.ultimateendermod.util.handlers;
 
 import com.thecrowbarxc.ultimateendermod.init.BlockInit;
+import com.thecrowbarxc.ultimateendermod.init.EntityInit;
 import com.thecrowbarxc.ultimateendermod.init.ItemInit;
 import com.thecrowbarxc.ultimateendermod.util.interfaces.IHasModel;
+import com.thecrowbarxc.ultimateendermod.world.gen.WorldGenCustomOres;
 
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
@@ -10,6 +12,7 @@ import net.minecraftforge.client.event.ModelRegistryEvent;
 import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.fml.common.Mod.EventBusSubscriber;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
+import net.minecraftforge.fml.common.registry.GameRegistry;
 
 @EventBusSubscriber	
 public class RegistryHandlers 
@@ -44,4 +47,25 @@ public class RegistryHandlers
 				((IHasModel)block).registerModels();
 			}
 		}
-	}
+	
+	public static void preInitRegistries()
+    {
+        EntityInit.registerEntities();
+        RenderHandler.registerEntityRenders();
+    }
+    
+    public static void InitRegistries()
+    {
+        SoundsHandler.registerSounds();
+    }
+    
+    public static void postInitRegistries()
+    {
+        
+    }
+    
+    public static void otherRegistries()
+    {
+    	GameRegistry.registerWorldGenerator(new WorldGenCustomOres(), 0);
+    }
+}

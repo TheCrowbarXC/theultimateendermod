@@ -1,0 +1,6 @@
+{
+    "variants":
+    {
+        "variant=enderium": { "model": "tuem:ore_overworld_enderium" }
+    }
+}

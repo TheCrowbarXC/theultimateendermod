@@ -38,6 +38,11 @@ public class ItemInit
 	public static final Item INGOT_MUTATED_ENDERIUM = new ItemBase("ingot_mutated_enderium");
 	public static final Item INGOT_CORRUPTED_ENDERIUM = new ItemBase("ingot_corrupted_enderium");
 	public static final Item INGOT_ULTIMATE_ENDERIUM = new ItemBase("ingot_ultimate_enderium");
+	public static final Item PIECE_MUTATED = new ItemBase("piece_mutated");
+	public static final Item SHARD_MUTATED = new ItemBase("shard_mutated");
+	public static final Item CHUNK_MUTATED = new ItemBase("chunk_mutated");
+	public static final Item FLINT_ENDERIUM = new ItemBase("flint_enderium");
+	public static final Item IGNITER_MUTATED = new ItemBase("igniter_mutated");
 	
 	//Tools
 	public static final Item AXE_ENDERIUM = new ToolAxe("axe_enderium", TOOL_ENDERIUM);

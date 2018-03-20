@@ -1,0 +1,10 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+  "model": "tuem:block_corrupted_enderium"
+  },
+  "variants":{
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}

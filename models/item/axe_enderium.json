@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "tuem:items/axe_enderium"
+    }
+}

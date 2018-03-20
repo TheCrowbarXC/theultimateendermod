@@ -1,0 +1,63 @@
+
+itemGroup.ultimateendertab=Ultimate Ender Tab
+
+item.ingot_enderium.name=Enderium Ingot
+item.ingot_mutated_enderium.name=Mutated Enderium Ingot
+item.ingot_corrupted_enderium.name=Corrupted Enderium Ingot
+item.ingot_ultimate_enderium.name=Ultimate Enderium Ingot
+item.piece_mutated.name=Mutated Piece
+item.shard_mutated.name=Mutated Shard
+item.chunk_mutated.name=Mutated Chunk
+item.flint_enderium.name=Enderium Flint
+item.igniter_mutated.name=Mutated Igniter
+
+item.helmet_enderium.name=Enderium Helmet
+item.chestplate_enderium.name=Enderium Chestplate
+item.leggings_enderium.name=Enderium Leggings
+item.boots_enderium.name=Enderium Boots
+item.helmet_mutated_enderium.name=Mutated Enderium Helmet
+item.chestplate_mutated_enderium.name=Mutated Enderium Chestplate
+item.leggings_mutated_enderium.name=Mutated Enderium Leggings
+item.boots_mutated_enderium.name=Mutated Enderium Boots
+item.helmet_corrupted_enderium.name=Corrupted Enderium Helmet
+item.chestplate_corrupted_enderium.name=Corrupted Enderium Chestplate
+item.leggings_corrupted_enderium.name=Corrupted Enderium Leggings
+item.boots_corrupted_enderium.name=Corrupted Enderium Boots
+item.helmet_ultimate_enderium.name=Ultimate Enderium Helmet
+item.chestplate_ultimate_enderium.name=Ultimate Enderium Chestplate
+item.leggings_ultimate_enderium.name=Ultimate Enderium Leggings
+item.boots_ultimate_enderium.name=Ultimate Enderium Boots
+
+item.pickaxe_enderium.name=Enderium Pickaxe
+item.sword_enderium.name=Enderium Sword
+item.axe_enderium.name=Enderium Axe
+item.shovel_enderium.name=Enderium Shovel
+item.hoe_enderium.name=Enderium Hoe
+item.pickaxe_mutated_enderium.name=Mutated Enderium Pickaxe
+item.sword_mutated_enderium.name=Mutated Enderium Sword
+item.axe_mutated_enderium.name=Mutated Enderium Axe
+item.shovel_mutated_enderium.name=Mutated Enderium Shovel
+item.hoe_mutated_enderium.name=Mutated Enderium Hoe
+item.pickaxe_corrupted_enderium.name=Corrupted Enderium Pickaxe
+item.sword_corrupted_enderium.name=Corrupted Enderium Sword
+item.axe_corrupted_enderium.name=Corrupted Enderium Axe
+item.shovel_corrupted_enderium.name=Corrupted Enderium Shovel
+item.hoe_corrupted_enderium.name=Corrupted Enderium Hoe
+item.pickaxe_ultimate_enderium.name=Ultimate Enderium Pickaxe
+item.sword_ultimate_enderium.name=Ultimate Enderium Sword
+item.axe_ultimate_enderium.name=Ultimate Enderium Axe
+item.shovel_ultimate_enderium.name=Ultimate Enderium Shovel
+item.hoe_ultimate_enderium.name=Ultimate Enderium Hoe
+
+tile.block_enderium.name=Enderium Block
+tile.block_mutated_enderium.name=Mutated Enderium Block
+tile.block_corrupted_enderium.name=Corrupted Enderium Block
+tile.block_ultimate_enderium.name=Ultimate Enderium Block
+tile.block_mutated_endstone.name=Mutated Endstone
+tile.block_corrupted_endstone.name=Corrupted Endstone
+tile.block_ultimate_endstone.name=Ultimate Endstone
+tile.ore_overworld_enderium.name=Enderium Ore
+tile.ore_mutated_enderium.name=Mutated Enderium Ore
+tile.ore_corrupted_enderium.name=Corrupted Enderium Ore
+tile.ore_ultimate_enderium.name=Ultimate Enderium Ore
+

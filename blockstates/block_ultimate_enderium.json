@@ -1,0 +1,10 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+  "model": "tuem:block_ultimate_enderium"
+  },
+  "variants":{
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}
